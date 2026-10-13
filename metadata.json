@@ -1,0 +1,6 @@
+{
+  "name": "TerraResQ — Satellite Intelligence for Flood Response",
+  "description": "Geospatial AI flood damage mapping, SAR/Optical segmentation, OpenStreetMap road network cutoff analysis, and automated emergency situation reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
