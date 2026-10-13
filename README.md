@@ -1,11 +1,37 @@
-<div align="center">
+# TerraResQ 🌊
+### Satellite Intelligence for Flood Response
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+TerraResQ is an AI-powered geospatial platform designed to map flood-affected areas, assess potentially impacted infrastructure, and identify settlements that may be disconnected by flooded roads.
 
-  <h1>Built with AI Studio</h2>
+## Key Features
+- Satellite imagery analysis
+- Flood extent mapping and segmentation
+- Infrastructure exposure assessment
+- Road-network connectivity analysis
+- Situation report generation
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Technology Stack
+- React and TypeScript
+- Vite and Node.js
+- Geospatial analysis and satellite imagery
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Getting Started
+Clone the repository and install dependencies:
 
-</div>
+```bash
+npm install --legacy-peer-deps
+npm run dev
+```
+
+Open the local URL shown in the terminal.
+
+## Data and Limitations
+Demo results must be distinguished from real satellite-derived measurements. Real-world analysis requires suitable satellite imagery, valid geospatial data, and supported processing models.
+
+## Project Status
+Hackathon prototype — features and data availability may vary.
+
+## Data Attribution
+- Copernicus Sentinel data, when used
+- © OpenStreetMap contributors, when used
+- Cite any training datasets actually used.
